@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitLabDemo", "GitLabDemo\GitLabDemo.csproj", "{66916BD9-0E5D-4D53-8897-88359F2DB434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestProject1", "NUnitTestProject1\NUnitTestProject1.csproj", "{6EE55C39-EACD-4F8D-9663-B4CD49C3C981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66916BD9-0E5D-4D53-8897-88359F2DB434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66916BD9-0E5D-4D53-8897-88359F2DB434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66916BD9-0E5D-4D53-8897-88359F2DB434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66916BD9-0E5D-4D53-8897-88359F2DB434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EE55C39-EACD-4F8D-9663-B4CD49C3C981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EE55C39-EACD-4F8D-9663-B4CD49C3C981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EE55C39-EACD-4F8D-9663-B4CD49C3C981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EE55C39-EACD-4F8D-9663-B4CD49C3C981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01638EA8-A4B7-41B2-A612-EF0D5C5B1C7E}
+	EndGlobalSection
+EndGlobal
